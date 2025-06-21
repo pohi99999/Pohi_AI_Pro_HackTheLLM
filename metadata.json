@@ -1,0 +1,6 @@
+{
+  "name": "Pohi AI Pro v3",
+  "description": "Pohi AI Pro is a database application designed to streamline operations for manufacturers and their customers. My former job in acacia wood pole manufacturing, where we sold products globally, highlighted the need for such a system.\n\nConnects Stakeholders: It brings together customers looking to place orders and manufacturers who have ready stock.\nOrder & Stock Management: Customers can upload their order requirements, and manufacturers can upload their available inventory. The application then automatically matches these.\nUser-Specific Interfaces: It features separate user interfaces for customers, manufacturers, and an administrator (which would be me).\nSmart Logistics: A key feature is its logic-based transport organization. The program will match orders with stock and then organize the transportation, putting together the most optimal route for deliveries to ensure, for example, that 24-ton trucks are filled efficiently.\nAdaptability: While initially inspired by the complexities of the wood industry (heavy materials, sourcing, precise assembly), Pohi AI Pro is planned to be adaptable for use in other industries as well.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
